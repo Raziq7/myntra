@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+font-size: smaller;
+}
+.sup{
+    color: red;
+}
+.header{
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+}
+/* .FreeShippingBanner-sidebar {
+    position: fixed;
+    bottom: 130px;
+    width: 44px;
+    height: 158px;
+    background-color: #535766;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+} */
